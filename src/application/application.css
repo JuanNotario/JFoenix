@@ -1,0 +1,10 @@
+.myButton{
+	-fx-background-color: blue;
+	-fx-border-color: blue;
+	-fx-text-fill: white;
+}
+
+.myButton:hover {
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+}
